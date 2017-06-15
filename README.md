@@ -22,5 +22,6 @@ The two files in this repository are given as an example to test the program, bu
 
 **Dependencies**
 
-R. 
+R.     
+
 The library ggplot2. To install on unix, check https://www.r-bloggers.com/installing-r-packages/ for an example
