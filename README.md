@@ -19,20 +19,8 @@ and fn_overlap.jpg, respectively.
 The two files in this repository are given as an example to test the program, but it will work with any two csv files of bird scoring data seperated by name, start, and stop. Just first enter the predicted csv, and then the test set csv, and it will evaluate the efficiency on the model in terms of predicting complete words.
 
 
-FALSE NEGATIVE WORDS ANALYSIS
-0.084375 of the total non 'z' words in our test-set were missed
-Out of these 54 words...
-100% were i 
 
-FALSE POSITIVE WORDS ANALYSIS
-0.1382114 of the predicted words were total false positives
-Out of these 102 words... 
-1.961% were c 
-98.039% were i 
-[1] 636
-
-
-Dependencies
+**Dependencies**
 
 R. 
 The library ggplot2. To install on unix, check https://www.r-bloggers.com/installing-r-packages/ for an example
